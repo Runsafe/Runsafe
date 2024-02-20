@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Modifyworld">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RunsafePexBridge/lib/Modifyworld.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

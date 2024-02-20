@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdminToolbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AdminToybox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Azuren" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Boondries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Cheeves" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ChunkTally" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CombatCooldown" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CreativeToolbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dergons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DropParty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EntityControl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EventEngine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GoneFishing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InfiniteSeaGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/InspectorGadget" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ItemFlangerorimega" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LastManStanding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mergic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MessageCycle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Moosic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NetherRoof" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PeeVeePeeArena" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PictureChanger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlayerNotes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlotGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafeAccounts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafeBank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafeClans" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafeInventories" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafeMailbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RunsafePexBridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Services" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sieve" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TripWire" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserControl" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UserMonitor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VanishBridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VoidGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WarpDrive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WastelandGenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WinterWar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WolfHunt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WorldEditBridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WorldGuardBridge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ai-dog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/itemcontrol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nChannels" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nChat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/nChatRegions" vcs="Git" />
+  </component>
+</project>
