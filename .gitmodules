@@ -1,0 +1,208 @@
+[submodule "AdminToolbox"]
+	path = AdminToolbox
+	url = ../AdminToolbox
+	branch = master
+[submodule "AdminToybox"]
+	path = AdminToybox
+	url = ../AdminToybox
+	branch = master
+[submodule "Azuren"]
+	path = Azuren
+	url = ../Azuren
+	branch = master
+[submodule "Boondries"]
+	path = Boondries
+	url = ../Boondries
+	branch = master
+[submodule "Cheeves"]
+	path = Cheeves
+	url = ../Cheeves
+	branch = master
+[submodule "ChunkTally"]
+	path = ChunkTally
+	url = ../ChunkTally
+	branch = master
+[submodule "CombatCooldown"]
+	path = CombatCooldown
+	url = ../CombatCooldown
+	branch = master
+[submodule "CreativeToolbox"]
+	path = CreativeToolbox
+	url = ../CreativeToolbox
+	branch = master
+[submodule "Dergons"]
+	path = Dergons
+	url = ../Dergons
+	branch = master
+[submodule "DropParty"]
+	path = DropParty
+	url = ../DropParty
+	branch = master
+[submodule "EntityControl"]
+	path = EntityControl
+	url = ../EntityControl
+	branch = master
+[submodule "EventEngine"]
+	path = EventEngine
+	url = ../EventEngine
+	branch = master
+[submodule "Framework"]
+	path = Framework
+	url = ../Framework
+	branch = master
+[submodule "GoneFishing"]
+	path = GoneFishing
+	url = ../GoneFishing
+	branch = master
+[submodule "InfiniteSeaGenerator"]
+	path = InfiniteSeaGenerator
+	url = ../InfiniteSeaGenerator
+	branch = master
+[submodule "InspectorGadget"]
+	path = InspectorGadget
+	url = ../InspectorGadget
+	branch = master
+[submodule "ItemFlangerorimega"]
+	path = ItemFlangerorimega
+	url = ../ItemFlangerorimega
+	branch = master
+[submodule "LastManStanding"]
+	path = LastManStanding
+	url = ../LastManStanding
+	branch = master
+[submodule "Mergic"]
+	path = Mergic
+	url = ../Mergic
+	branch = master
+[submodule "MessageCycle"]
+	path = MessageCycle
+	url = ../MessageCycle
+	branch = master
+[submodule "Moosic"]
+	path = Moosic
+	url = ../Moosic
+	branch = master
+[submodule "NetherRoof"]
+	path = NetherRoof
+	url = ../NetherRoof
+	branch = master
+[submodule "PeeVeePeeArena"]
+	path = PeeVeePeeArena
+	url = ../PeeVeePeeArena
+	branch = master
+[submodule "PictureChanger"]
+	path = PictureChanger
+	url = ../PictureChanger
+	branch = master
+[submodule "PlayerNotes"]
+	path = PlayerNotes
+	url = ../PlayerNotes
+	branch = master
+[submodule "PlotGenerator"]
+	path = PlotGenerator
+	url = ../PlotGenerator
+	branch = master
+[submodule "RunsafeAccounts"]
+	path = RunsafeAccounts
+	url = ../RunsafeAccounts
+	branch = master
+[submodule "RunsafeBank"]
+	path = RunsafeBank
+	url = ../RunsafeBank
+	branch = master
+[submodule "RunsafeClans"]
+	path = RunsafeClans
+	url = ../RunsafeClans
+	branch = master
+[submodule "RunsafeInventories"]
+	path = RunsafeInventories
+	url = ../RunsafeInventories
+	branch = master
+[submodule "RunsafeMailbox"]
+	path = RunsafeMailbox
+	url = ../RunsafeMailbox
+	branch = master
+[submodule "RunsafePexBridge"]
+	path = RunsafePexBridge
+	url = ../RunsafePexBridge
+	branch = master
+[submodule "Services"]
+	path = Services
+	url = ../Services
+	branch = master
+[submodule "Sieve"]
+	path = Sieve
+	url = ../Sieve
+	branch = master
+[submodule "Tripwire"]
+	path = Tripwire
+	url = ../Tripwire
+	branch = master
+[submodule "UserControl"]
+	path = UserControl
+	url = ../UserControl
+	branch = master
+[submodule "UserMonitor"]
+	path = UserMonitor
+	url = ../UserMonitor
+	branch = master
+[submodule "VanishBridge"]
+	path = VanishBridge
+	url = ../VanishBridge
+	branch = master
+[submodule "VoidGenerator"]
+	path = VoidGenerator
+	url = ../VoidGenerator
+	branch = master
+[submodule "WarpDrive"]
+	path = WarpDrive
+	url = ../WarpDrive
+	branch = master
+[submodule "WastelandGenerator"]
+	path = WastelandGenerator
+	url = ../WastelandGenerator
+	branch = master
+[submodule "WinterWar"]
+	path = WinterWar
+	url = ../WinterWar
+	branch = master
+[submodule "WolfHunt"]
+	path = WolfHunt
+	url = ../WolfHunt
+	branch = master
+[submodule "WorldEditBridge"]
+	path = WorldEditBridge
+	url = ../WorldEditBridge
+	branch = master
+[submodule "WorldGuardBridge"]
+	path = WorldGuardBridge
+	url = ../WorldGuardBridge
+	branch = master
+[submodule "ai-dog"]
+	path = ai-dog
+	url = ../ai-dog
+	branch = master
+[submodule "ItemControl"]
+	path = ItemControl
+	url = ../ItemControl
+	branch = master
+[submodule "nChannels"]
+	path = nChannels
+	url = ../nChannels
+	branch = master
+[submodule "nChat"]
+	path = nChat
+	url = ../nChat
+	branch = master
+[submodule "nChatRegions"]
+	path = nChatRegions
+	url = ../nChatRegions
+	branch = master
+[submodule "TripWire"]
+	path = TripWire
+	url = ../TripWire
+	branch = master
+[submodule "itemcontrol"]
+	path = itemcontrol
+	url = ../itemcontrol
+	branch = master
