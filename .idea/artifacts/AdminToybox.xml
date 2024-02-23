@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="AdminToybox">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="AdminToybox.jar">
+        <element id="module-output" name="AdminToybox" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/AdminToybox/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/AdminToybox/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/AdminToybox/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

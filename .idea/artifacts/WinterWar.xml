@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="WinterWar">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="WinterWar.jar">
+        <element id="module-output" name="WinterWar" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/WinterWar/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/WinterWar/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/WinterWar/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

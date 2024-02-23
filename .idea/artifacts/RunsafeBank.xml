@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="RunsafeBank">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="RunsafeBank.jar">
+        <element id="module-output" name="RunsafeBank" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/RunsafeBank/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeBank/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeBank/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

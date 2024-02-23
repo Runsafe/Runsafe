@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="InspectorGadget">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="InspectorGadget.jar">
+        <element id="module-output" name="InspectorGadget" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/InspectorGadget/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/InspectorGadget/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/InspectorGadget/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

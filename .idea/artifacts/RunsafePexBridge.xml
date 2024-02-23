@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="RunsafePexBridge">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="RunsafePexBridge.jar">
+        <element id="module-output" name="RunsafePexBridge" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/RunsafePexBridge/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafePexBridge/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafePexBridge/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

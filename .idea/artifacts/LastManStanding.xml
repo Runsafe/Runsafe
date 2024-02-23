@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="LastManStanding">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="LastManStanding.jar">
+        <element id="module-output" name="LastManStanding" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/LastManStanding/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/LastManStanding/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/LastManStanding/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

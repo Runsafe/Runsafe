@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="ai-dog">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="ai-dog.jar">
+        <element id="module-output" name="ai-dog" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/ai-dog/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/ai-dog/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/ai-dog/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Boondries">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Boondries.jar">
+        <element id="module-output" name="Boondries" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/Boondries/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/Boondries/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/Boondries/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

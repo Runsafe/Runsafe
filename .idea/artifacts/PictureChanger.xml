@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="PictureChanger">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="PictureChanger.jar">
+        <element id="module-output" name="PictureChanger" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/PictureChanger/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/PictureChanger/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/PictureChanger/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

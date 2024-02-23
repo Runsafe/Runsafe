@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="WarpDrive">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="WarpDrive.jar">
+        <element id="module-output" name="WarpDrive" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/WarpDrive/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/WarpDrive/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/WarpDrive/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

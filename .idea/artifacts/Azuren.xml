@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Azuren">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Azuren.jar">
+        <element id="module-output" name="Azuren" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/Azuren/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/Azuren/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/Azuren/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

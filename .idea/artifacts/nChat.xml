@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="nChat">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="nChat.jar">
+        <element id="module-output" name="nChat" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/nChat/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/nChat/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/nChat/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

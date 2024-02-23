@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="EventEngine">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="EventEngine.jar">
+        <element id="module-output" name="EventEngine" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/EventEngine/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/EventEngine/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/EventEngine/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="GoneFishing">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="GoneFishing.jar">
+        <element id="module-output" name="GoneFishing" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/GoneFishing/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/GoneFishing/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/GoneFishing/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

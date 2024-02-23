@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="Moosic">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Moosic.jar">
+        <element id="module-output" name="Moosic" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/Moosic/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/Moosic/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/Moosic/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

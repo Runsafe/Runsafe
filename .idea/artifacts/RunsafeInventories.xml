@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="RunsafeInventories">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="RunsafeInventories.jar">
+        <element id="module-output" name="RunsafeInventories" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/RunsafeInventories/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeInventories/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeInventories/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="RunsafeMailbox">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="RunsafeMailbox.jar">
+        <element id="module-output" name="RunsafeMailbox" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/RunsafeMailbox/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeMailbox/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/RunsafeMailbox/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="WorldEditBridge">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="WorldEditBridge.jar">
+        <element id="module-output" name="WorldEditBridge" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/WorldEditBridge/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/WorldEditBridge/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/WorldEditBridge/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

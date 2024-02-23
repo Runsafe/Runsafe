@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="itemcontrol">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="itemcontrol.jar">
+        <element id="module-output" name="itemcontrol" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/itemcontrol/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/itemcontrol/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/itemcontrol/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

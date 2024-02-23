@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="ChunkTally">
+    <output-path>$PROJECT_DIR$/out/bin/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="ChunkTally.jar">
+        <element id="module-output" name="ChunkTally" />
+	<element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/ChunkTally/META-INF/MANIFEST.MF" />
+	</element>
+        <element id="file-copy" path="$PROJECT_DIR$/ChunkTally/src/plugin.yml" />
+        <element id="file-copy" path="$PROJECT_DIR$/ChunkTally/src/defaults.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>
